@@ -19,9 +19,9 @@ public class Birdie {
                 System.out.println("小鸟在喝水");
 
             }
-        };
-        bird.call();
+        };bird.call();
         bird.fly();
         bird.sing();
     }
+
 }
